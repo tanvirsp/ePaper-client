@@ -1,0 +1,23 @@
+.title {
+    background-color: #00AD4E;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.thumbnail {
+    width: 100%;
+    padding: 15px;
+}
+
+.thumbnail-container {
+    height: 500px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+.banner-two {
+    width: 100%;
+    margin: 25px 0;
+}

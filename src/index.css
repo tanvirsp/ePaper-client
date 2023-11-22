@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #f7f7f7;
+  font-family: 'Noto Sans Bengali', sans-serif;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+.model-image {
+  width: 100%;
+}

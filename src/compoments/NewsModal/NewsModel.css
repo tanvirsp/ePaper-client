@@ -1,0 +1,31 @@
+.close-modal {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    border: none;
+    padding: 8px 10px;
+    background-color: red;
+    border-radius: 50%;
+    
+}
+
+.close-modal svg {
+    font-size: 25px;    
+    color: white;
+
+}
+
+.social-share button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 999;
+    background-color: red;
+    padding: 30px
+}
+
+.share-text {
+    font-weight: 600;
+    font-size: 18px;
+    margin-right: 20px
+}

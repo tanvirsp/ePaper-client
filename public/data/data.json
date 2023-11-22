@@ -1,0 +1,38 @@
+
+[
+    {
+        "pageOne": {
+            "topLeft": "https://i.ibb.co/Zfc0JxR/p1-1.jpg",
+            "bottomLeft": "https://i.ibb.co/7kQPf9W/p1-2.jpg",
+            "torRight": "https://i.ibb.co/QQb8f5v/p1-3.jpg",
+            "bottomRight": "https://i.ibb.co/Gt47vnT/p1-4.jpg"
+        },
+        "pageTwo": {
+            "topLeft": "https://i.ibb.co/yR74DP1/p2-1.jpg",
+            "bottomLeft": "https://i.ibb.co/DM5Nypx/p2-2.jpg",
+            "torRight": "https://i.ibb.co/JngLYRb/p2-3.jpg",
+            "bottomRight": "https://i.ibb.co/C8HXNRt/p2-4.jpg"
+        },
+        "pageThree": {
+            "topLeft": "https://i.ibb.co/XWRF9qx/p3-1.jpg",
+            "bottomLeft": "https://i.ibb.co/PFwdVFD/p3-2.jpg",
+            "torRight": "https://i.ibb.co/C89spzr/p3-3.jpg",
+            "bottomRight": "https://i.ibb.co/2P6H0wC/p3-4.jpg"
+        },
+        "lastPage": {
+            "topLeft": "https://i.ibb.co/8rtKmzh/p4-1.jpg",
+            "bottomLeft": "https://i.ibb.co/pnc6kmH/p4-2.jpg",
+            "torRight": "https://i.ibb.co/1s5sfFz/p4-3.jpg",
+            "bottomRight": "https://i.ibb.co/HhW41Tn/p4-4.jpg"
+        },
+        "thumbNail" : [
+            {"img": "https://i.ibb.co/0CGy9vk/Untitled-1.jpg", "url": "/"},
+            {"img": "https://i.ibb.co/BV3gFkX/Untitled-4.jpg", "url": "/last-page"},
+            {"img": "https://i.ibb.co/0CGy9vk/Untitled-1.jpg", "url": "/page-two"},
+            {"img": "https://i.ibb.co/BV3gFkX/Untitled-4.jpg", "url": "/page-three"}
+        ],
+        "totalPage": "4"
+    }
+]
+
+

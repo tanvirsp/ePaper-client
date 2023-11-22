@@ -1,0 +1,28 @@
+
+
+.imgContainer {
+    position: relative;
+}
+
+
+.imgContainer img {
+   width: 100%;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all 300ms;
+    cursor: pointer;
+}
+
+
+.imgContainer:hover .overlay {
+    opacity: 1;
+}
